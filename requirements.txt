@@ -1,0 +1,12 @@
+# GiV - Ghost in the Voice
+# Python 3.9+
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy
+scipy
+matplotlib
+requests
+asteroid
+transformers
+sounddevice
+librosa
